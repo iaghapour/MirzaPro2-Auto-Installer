@@ -31,7 +31,7 @@ sudo nano install_mirza.sh
 سپس اجرا کنید:
 
 ```bash
-chmod +x install_mirza.sh
+sudo chmod +x install_mirza.sh
 sudo ./install_mirza.sh
 ````
 

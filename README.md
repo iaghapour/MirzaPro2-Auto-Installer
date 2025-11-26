@@ -64,7 +64,7 @@ sudo ./install_mirza.sh
 ویدیو کامل آموزش نصب و راه‌اندازی Mirza Pro 2 را می‌توانید در کانال من ببینید:
 
 🔗 **YouTube:**
-[https://www.youtube.com/@iAghapour](https://www.youtube.com/@iAghapour)
+[لینک آمزش](https://youtu.be/nVzvD60b5WY)
 
 ---
 
